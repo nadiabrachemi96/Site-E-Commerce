@@ -1,0 +1,2 @@
+Pour se connecter en mode admin le nom d'utilisateur=admin 
+le mot de passe =admin
